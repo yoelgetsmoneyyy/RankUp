@@ -10,7 +10,7 @@
 groups:
   A:
     entrance: ["say {name} ranked up to A"]
-    exit: []
+    exit:idk []
     perms: []
     members: []
   B:
